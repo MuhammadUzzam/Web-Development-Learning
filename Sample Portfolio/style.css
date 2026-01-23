@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .nav-link {
+    color: black !important;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 10%;
+    text-align: justify;
+}
+.card-text{
+    text-align: left;
+}
