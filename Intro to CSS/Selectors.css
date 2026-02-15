@@ -1,0 +1,12 @@
+h1{
+    font-size: 20px;
+    color: blue;
+}
+.class_selector{
+    font-size: medium;
+    color: aqua;
+}
+#id_selector{
+    font-size: 9px;
+    color:blueviolet
+}
